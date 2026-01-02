@@ -89,3 +89,38 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 ## 📝 License
 
 MIT License - see LICENSE file for details
+
+
+## 📚 Best Practices
+
+### Problem Solving Strategy
+1. **Read Carefully** - Understand the problem constraints
+2. **Analyze Patterns** - Identify similar problems
+3. **Implement Solution** - Code the optimal approach
+4. **Test Edge Cases** - Handle corner cases
+
+### Performance Tips
+- Use efficient data structures
+- Optimize time complexity first
+- Then optimize space complexity
+- Profile your code for bottlenecks
+
+## 🚀 Getting Started with Competitive Programming
+
+1. Choose your primary language (C++, Python, Java)
+2. Master basic data structures
+3. Practice simple problems first
+4. Gradually increase difficulty
+5. Review solutions and learn patterns
+6. Participate in contests
+7. Analyze top solutions
+
+## 📖 Recommended Learning Path
+
+- **Week 1-2**: Array & String operations
+- **Week 3-4**: Sorting, Searching, Binary Search
+- **Week 5-6**: Linked Lists, Stacks, Queues
+- **Week 7-8**: Trees, Heaps, Priority Queues
+- **Week 9-10**: Graphs (BFS, DFS, shortest paths)
+- **Week 11-12**: Dynamic Programming
+- **Week 13+**: Advanced Topics & Contests
